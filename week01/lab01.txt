@@ -20,3 +20,5 @@ drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:39 week09
 drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:39 week10
 drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:40 xtra
 /home/fasilkom/mahasiswa/a/aisyah.sadiyah/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 17 Feb 2017 at 17:42:25
