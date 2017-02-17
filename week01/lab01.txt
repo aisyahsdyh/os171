@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 aisyah.sadiyah StafCS 4096 Feb 17 17:16 .
+drwx--x--x 18 aisyah.sadiyah StafCS 4096 Feb 17 17:09 ..
+drwxr-xr-x  8 aisyah.sadiyah StafCS 4096 Feb 17 17:15 .git
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:40 key
+-rw-r--r--  1 aisyah.sadiyah StafCS    0 Feb 17 17:18 lab01.txt
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:40 log
+-rw-r--r--  1 aisyah.sadiyah StafCS    7 Feb 17 16:24 README.md
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:57 sandbox
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 17:09 week00
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:37 week01
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:38 week02
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:38 week03
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:38 week04
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:38 week05
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:38 week06
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:38 week07
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:39 week08
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:39 week09
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:39 week10
+drwxr-xr-x  2 aisyah.sadiyah StafCS 4096 Feb 17 16:40 xtra
+/home/fasilkom/mahasiswa/a/aisyah.sadiyah/os171/week01
