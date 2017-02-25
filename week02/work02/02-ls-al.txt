@@ -1,0 +1,9 @@
+total 32
+drwx--x--x  4 aisyah.sadiyah StafCS 4096 Feb 24 16:27 .
+drwxr-xr-x 65 root           root   4096 Feb 14 17:02 ..
+-rw-r--r--  1 aisyah.sadiyah StafCS 1621 Feb 24 16:23 00-toc.txt
+-rw-r--r--  1 aisyah.sadiyah StafCS    0 Feb 24 16:27 02-ls-al.txt
+-rw-------  1 aisyah.sadiyah StafCS 2426 Feb 24 16:22 .bash_history
+drwxr-xr-x 18 aisyah.sadiyah StafCS 4096 Feb 17 17:19 os171
+-rw-------  1 aisyah.sadiyah StafCS 4865 Feb 18 11:11 .viminfo
+drwxr-xr-x  3 aisyah.sadiyah StafCS 4096 Feb 21 16:43 work
